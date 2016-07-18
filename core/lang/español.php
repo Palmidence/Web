@@ -1,6 +1,6 @@
 <?
 //Lenguajes
- $motd = '';
+ $motd = 'La Network no premium con mas variedad de PvP';
  
  $header[jugar] = 'Jugar';
  $header[stats] = 'Stats':
@@ -16,6 +16,8 @@
  $header[menu][apelaciones] = 'Apelaciones';
  $header[menu][cuenta] = 'Cuenta';
  $header[menu][salir] = 'Salir';
+ 
+ $social[title] = 'Ultimos anuncios';
  
  $marketing1[title] = 'ArenaPvP';
  $marketing2[title] = 'KitMap';

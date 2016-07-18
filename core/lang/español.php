@@ -68,4 +68,15 @@
  $cuenta[perfil][desc] = 'Usa esta seccion para poner una descripcion personalizada en tu perfil. Puedes usar HTML, con algunas excepciónes:';
  $cuenta[perfil][regla] = 'No trates de romper la seccion con algun codigo mal escrito.';
  $cuenta[perfil][consecuencia] = 'No trates de romper la seccion con algun codigo mal escrito.';
+ 
+ $footer[politicas][titulo] = 'Politicas';
+ $footer[politicas][reglas] = 'Reglas';
+ $footer[politicas][terminos] = 'Terminos de uso';
+ $footer[herramientas][titulo] = 'Herramientas';
+ $footer[herramientas][reportar] = 'Reportar';
+ $footer[herramientas][apelar] = 'Apelar';
+ $footer[herramientas][infracciones] = 'Infracciones';
+ $footer[organizacion][titulo] = 'Organizacion';
+ $footer[organizacion][desarrollo] = 'Desarrollo';
+ $footer[redes][titulo] = 'Redes sociales';
 ?>

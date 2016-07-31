@@ -19,7 +19,7 @@
     define("header_menu_cuenta", "Account");
     define("header_menu_salir", "Logout");
                  
-    define("social", "Last announces");
+    define("social", "Latest announcements");
  
     define("foro_main", "Forums");
     define("foro_main_desc", "Socialize with your friends");

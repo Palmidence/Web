@@ -19,30 +19,30 @@
     define("header_menu_cuenta", "Account");
     define("header_menu_salir", "Logout");
                  
-    define("social", "Latest announcements");
+    define("social", "Latest Announcements");
  
     define("foro_main", "Forums");
     define("foro_main_desc", "Socialize with your friends");
  
-    define("foro_bar_news", "News?");
+    define("foro_bar_news", "News");
 				define("foro_bar_mistemas", "My topics");
 				define("foro_bar_anuncios", "Announcements");
-				define("foro_bar_dudas", "Ask to admins");
+				define("foro_bar_dudas", "Ask the Admins");
 				define("foro_bar_sub_comunidad", "Community");
 				define("foro_bar_general", "General");
-				define("foro_bar_presentacion", "Introduce yourself");
-				define("foro_bar_cc", "Creative content");
+				define("foro_bar_presentacion", "Introduce Yourself");
+				define("foro_bar_cc", "Creative Content");
 				define("foro_bar_sugerencias", "Suggestions");
-				define("foro_bar_offtopic", "OffTopic");
+				define("foro_bar_offtopic", "Off-Topic");
 				define("foro_bar_sub_mapmaking", "Map Making");
 				define("foro_bar_mapasinfo", "Information");
 				define("foro_bar_mapas", "Maps");
 				define("foro_bar_sub_eventos", "Events");
 				define("foro_bar_informacion", "Information");
 				define("foro_bar_lft", "Looking for Team");
-				define("foro_bar_lfm", "Looking for Member");
+				define("foro_bar_lfm", "Looking for Members");
 				define("foro_bar_sub_otros", "Others");
-				define("foro_bar_archivo", "Archive");
+				define("foro_bar_archivo", "Archives");
 				define("foro_bar_solicitud", "Submissions");
 				define("foro_bar_online", "Online users");
 
@@ -53,7 +53,7 @@
 				define("foro_table_vistas", "Views");
                 
     define("foro_topic_button_archivar", "Archive");
-				define("foro_topic_button_desarchivar", "Unrchive");
+				define("foro_topic_button_desarchivar", "Unarchive");
 				define("foro_topic_button_bloquear", "Lock");
 				define("foro_topic_button_desbloquear", "Unlock");
 				define("foro_topic_button_borrar", "Delete");
@@ -70,14 +70,14 @@
     define("cuenta_titulo", "Information");
 				define("cuenta_titulo_desc", "share your info to other players");
  
-    define("cuenta_otras_titulo", "Others");
+    define("cuenta_otras_titulo", "Other");
 				define("cuenta_otras_solicitud", "Accept friend requests from other players");
 				define("cuenta_otras_pais", "Show country");
-				define("cuenta_otras_server", "Show server online");
+				define("cuenta_otras_server", "Show server status");
  
     define("cuenta_perfil_desc", "Use this box to add custom content to the bottom of your profile. You can use HTML and put anything in here, with a few exceptions:");
     define("cuenta_perfil_regla", "Follow our general rules for website behavior.");
-    define("cuenta_perfil_consecuencia", "Dont try to break out of the box that contains the content.");
+    define("cuenta_perfil_consecuencia", "Do not try to break out of the box that contains your content.");
     define("cuenta_perfil_button_update", "Update");
 				
 				define("footer_politicas", "Policies");
@@ -85,11 +85,11 @@
 				define("footer_politicas_terminos", "Terms of Service");
 				
 				define("footer_herramientas", "Moderation");
-				define("footer_herramientas_reportar", "Report a player");
-				define("footer_herramientas_apelar", "Appeal a punishment");
+				define("footer_herramientas_reportar", "Report a Player");
+				define("footer_herramientas_apelar", "Appeal a Punishment");
 				define("footer_herramientas_infracciones", "Punishments");
 				
 				define("footer_organizacion", "Organization");
 				define("footer_organizacion_staff", "Staff");
-				define("footer_organizacion_desarrollo", "Development logs");
-				define("footer_organizacion_bugs", "Report a bug");
+				define("footer_organizacion_desarrollo", "Development Logs");
+				define("footer_organizacion_bugs", "Report a Bug");

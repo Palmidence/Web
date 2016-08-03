@@ -14,5 +14,13 @@ class API{
         }
         return false;
   }
+  
+  public static function isValidUsername($string) {
+      return is_string($string) and strlen($string) >= 2 and strlen($string) <= 16 and ctype_alnum(str_replace('_', '', $string));
+  }
+
+ public static function isValidUuid($string) {
+      return is_string(self::minifyUuid($string));
+  }  
 }
 ?>

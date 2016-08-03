@@ -33,7 +33,7 @@
 				define("foro_bar_presentacion", "Introduce Yourself");
 				define("foro_bar_cc", "Creative Content");
 				define("foro_bar_sugerencias", "Suggestions");
-				define("foro_bar_offtopic", "Off-Topic");
+				define("foro_bar_offtopic", "Off Topic");
 				define("foro_bar_sub_mapmaking", "Map Making");
 				define("foro_bar_mapasinfo", "Information");
 				define("foro_bar_mapas", "Maps");

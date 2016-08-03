@@ -1,1 +1,30 @@
-
+{
+  "es": {
+    "id": 1,
+    "name": "Español",
+    "default": false,
+    "isoCdoe": "es",
+    "access": "staff",
+  },
+  "en": {
+    "id": 2,
+    "name": "English",
+    "default": true,
+    "isoCdoe": "en",
+    "access": "staff",
+  },
+  "prt": {
+    "id": 3,
+    "name": "Português",
+    "default": false,
+    "isoCdoe": "prt",
+    "access": "staff",
+  }
+  "nor": {
+    "id": 4,
+    "name": "Norks",
+    "default": false,
+    "isoCdoe": "nor",
+    "access": "staff",
+  }
+}

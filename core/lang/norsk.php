@@ -1,3 +1,4 @@
+<?
                 define("lang", "Norsk");
                 define("motd", "Jobber med det!");
                 define("motd_button", "Spill!");

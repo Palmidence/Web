@@ -1,3 +1,4 @@
+<?
         	define("lang", "English");
         	define("motd", "Working on it!");
         	define("motd_button", "Play!");

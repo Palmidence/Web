@@ -1,3 +1,4 @@
+<?
         	define("lang", "Portuguese");
         	define("motd", "Competitividade ao seu alcance");
         	define("motd_button", "Jogar!");
